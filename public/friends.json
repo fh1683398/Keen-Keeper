@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Maya Lin",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&auto=format&fit=crop",
+    "email": "maya.lin@designstudio.co",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["college", "close friend", "design"],
+    "bio": "Met in sophomore architecture studio. Always down for weekend coffee walks and gallery visits.",
+    "goal": 14,
+    "next_due_date": "2026-11-24"
+  },
+  {
+    "id": 2,
+    "name": "Daniel Okafor",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop",
+    "email": "d.okafor@fintechlabs.io",
+    "days_since_contact": 26,
+    "status": "overdue",
+    "tags": ["work", "mentor"],
+    "bio": "Former senior product lead who helped me navigate my first freelance contracts.",
+    "goal": 21,
+    "next_due_date": "2026-11-10"
+  },
+  {
+    "id": 3,
+    "name": "Sofia Alvarez",
+    "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&auto=format&fit=crop",
+    "email": "sofia.alvarez@gmail.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["childhood", "family friend"],
+    "bio": "Grew up on the same street. Loves baking sourdough and trading book recommendations.",
+    "goal": 14,
+    "next_due_date": "2026-11-17"
+  },
+  {
+    "id": 4,
+    "name": "Tariq Rahman",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&auto=format&fit=crop",
+    "email": "tariq.dev@outlook.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["coding", "close friend"],
+    "bio": "Hackathon partner and fellow frontend developer. We debug side projects late at night.",
+    "goal": 10,
+    "next_due_date": "2026-11-22"
+  },
+  {
+    "id": 5,
+    "name": "Hannah Lindqvist",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&auto=format&fit=crop",
+    "email": "hannah.lindqvist@nordicmail.se",
+    "days_since_contact": 34,
+    "status": "overdue",
+    "tags": ["travel", "photography"],
+    "bio": "Met during a solo backpacking trip. Shares film photography tips and travel itineraries.",
+    "goal": 30,
+    "next_due_date": "2026-11-11"
+  },
+  {
+    "id": 6,
+    "name": "Marcus Vance",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&auto=format&fit=crop",
+    "email": "mvance@runclub.org",
+    "days_since_contact": 6,
+    "status": "almost due",
+    "tags": ["fitness", "local"],
+    "bio": "Saturday morning running buddy who convinced me to train for my first 10K.",
+    "goal": 7,
+    "next_due_date": "2026-11-16"
+  },
+  {
+    "id": 7,
+    "name": "Priya Nair",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop",
+    "email": "priya.nair@creativeguild.in",
+    "days_since_contact": 19,
+    "status": "overdue",
+    "tags": ["college", "book club"],
+    "bio": "Roommate from university days. Hosts monthly virtual trivia and sci-fi book discussions.",
+    "goal": 14,
+    "next_due_date": "2026-11-10"
+  },
+  {
+    "id": 8,
+    "name": "Lucas Moreau",
+    "picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&auto=format&fit=crop",
+    "email": "lucas.moreau@atelier-lyon.fr",
+    "days_since_contact": 9,
+    "status": "on-track",
+    "tags": ["design", "collaborator"],
+    "bio": "Brand strategist I collaborated with on two client launches. Great sense of humor.",
+    "goal": 21,
+    "next_due_date": "2026-11-27"
+  }
+]
